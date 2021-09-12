@@ -13,6 +13,6 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height : 20px;"/></a>
 
 - Blog (티스토리) : <a href="https://vince-kim.tistory.com/">
-  <div style="max-height:20px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png" style="heigh : 20px;" /></div>
+  <span style="max-height:20px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tistory_logo.png" style="heigh : 20px;" /></span>
   </a>
